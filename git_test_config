@@ -2,3 +2,4 @@
 #define WORLD 2
 #define LUOQ 3
 #define QIANG 4
+#define YES 5
